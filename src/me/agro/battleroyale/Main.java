@@ -24,6 +24,8 @@ public final class Main extends JavaPlugin {
 
         this.gameManager = new GameManager(this);
 
+        System.out.println("Battle Royale Enabled");
+
 
         getCommand("start").setExecutor(new Command(gameManager));
 
