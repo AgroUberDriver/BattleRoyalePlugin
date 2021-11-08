@@ -1,0 +1,8 @@
+name: BattleRoyale
+version: 0.1
+description: Testing
+main: me.agro.battleroyale.Main
+
+commands:
+  start:
+    description: "Noob"
